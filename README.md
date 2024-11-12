@@ -4,7 +4,7 @@
 This project focuses on developing and training a machine learning model for image-based classification of four Lego categories. The system utilizes **Python** and **Logistic Regression** to classify Lego pieces based on shape using image preprocessing techniques.
 
 ## Project Status
-- **Stage 1**: Ongoing development, with code publicly available.
+- **Stage 1**: Completed.
 
 ## Key Features
 - Image preprocessing with **grayscale conversion** and **cropping** for improved classification accuracy.
